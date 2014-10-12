@@ -1,0 +1,176 @@
+<FlippingBook>
+	<stageWidth>100%</stageWidth>
+	<stageHeight>512</stageHeight>
+	<width>1000</width>
+	<height>750</height>
+	<scaleContent>true</scaleContent>
+	<centerContent>true</centerContent>
+	<preserveProportions>false</preserveProportions>
+	<hardcover>false</hardcover>
+	<hardcoverThickness>3</hardcoverThickness>
+	<frameWidth>0</frameWidth>
+	<frameColor>0xFFFFFF</frameColor>
+	<frameAlpha>100</frameAlpha>
+	<firstPage>0</firstPage>
+	<flipOnClick>true</flipOnClick>
+	<handOverCorner>true</handOverCorner>
+	<handOverPage>true</handOverPage>
+	<alwaysOpened>false</alwaysOpened>
+	<staticShadowsType>Symmetric</staticShadowsType>
+	<staticShadowsDepth>1</staticShadowsDepth>
+	<rigidPageSpeed>5</rigidPageSpeed>
+	<flipSound>http://goodnewsweb.de/wordpress/wp-content/pageflip/sounds/1.mp3</flipSound>
+	<preloaderType>Progress Bar</preloaderType>
+	<rigidPages>false</rigidPages>
+	<zoomEnabled>true</zoomEnabled>
+	<zoomImageWidth>800</zoomImageWidth>
+	<zoomImageHeight>1200</zoomImageHeight>
+	<zoomOnClick>true</zoomOnClick>
+	<zoomHint>Double click for zooming</zoomHint>
+	<centerBook>true</centerBook>
+	<useCustomCursors>false</useCustomCursors>
+	<dropShadowEnabled>true</dropShadowEnabled>
+	<dropShadowHideWhenFlipping>true</dropShadowHideWhenFlipping>
+	<backgroundColor>0xFFFFFF</backgroundColor>
+	<pageBack>0x99CCFF</pageBack>
+	<backgroundImage></backgroundImage>
+	<backgroundImagePlacement>fit</backgroundImagePlacement>
+	<printEnabled>true</printEnabled>
+	<printTitle>Print Pages</printTitle>
+	<navigation>true</navigation>
+	<downloadURL></downloadURL>
+	<downloadTitle>Start Download</downloadTitle>
+	<downloadSize></downloadSize>
+	<downloadComplete>Complete</downloadComplete>
+	<popup>false</popup>
+	<autoReduce>false</autoReduce>
+	<allowPagesUnload>false</allowPagesUnload>
+	<autoFlip>50</autoFlip>
+	<closeSpeed>3</closeSpeed>
+	<darkPages>false</darkPages>
+	<dynamicShadowsDarkColor>0x000000</dynamicShadowsDarkColor>
+	<dynamicShadowsDepth>1</dynamicShadowsDepth>
+	<dynamicShadowsLightColor>0xFFFFFF</dynamicShadowsLightColor>
+	<firstLastButtons>true</firstLastButtons>
+	<flipCornerAmount>70</flipCornerAmount>
+	<flipCornerAngle>45</flipCornerAngle>
+	<flipCornerPlaySound>false</flipCornerPlaySound>
+	<flipCornerPosition>top-right</flipCornerPosition>
+	<flipCornerRelease>true</flipCornerRelease>
+	<flipCornerStyle>manually</flipCornerStyle>
+	<flipCornerVibrate>true</flipCornerVibrate>
+	<freezeOnFlip>false</freezeOnFlip>
+	<fullscreenEnabled>true</fullscreenEnabled>
+	<fullscreenHint>HWG Mieterpost 1/2012</fullscreenHint>
+	<goToPageField>true</goToPageField>
+	<gotoSpeed>3</gotoSpeed>
+	<hardcoverEdgeColor>0xFFFFFF</hardcoverEdgeColor>
+	<hardcoverSound></hardcoverSound>
+	<highlightHardcover>true</highlightHardcover>
+	<loadOnDemand>true</loadOnDemand>
+	<moveSpeed>2</moveSpeed>
+	<navigationBarSkin>navigation</navigationBarSkin>
+	<navigationBarPlacement>bottom</navigationBarPlacement>
+	<navigationFlipOffset>30</navigationFlipOffset>
+	<playOnDemand>true</playOnDemand>
+	<showUnderlyingPages>false</showUnderlyingPages>
+	<slideshowAutoPlay>false</slideshowAutoPlay>
+	<slideshowButton>false</slideshowButton>
+	<slideshowDisplayDuration>5000</slideshowDisplayDuration>
+	<smoothPages>true</smoothPages>
+	<staticShadowsDarkColor>0x000000</staticShadowsDarkColor>
+	<staticShadowsLightColor>0xFFFFFF</staticShadowsLightColor>
+	<zoomUIColor>0x8f9ea6</zoomUIColor>
+	<pages>
+		<page name="HWG_Mieterpost_1-12_Seite 1 - Titel" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_t00a0XE8.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_t00a0XE8.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 2" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_l8GdVo.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_l8GdVo.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 3" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_TV8NYed.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_TV8NYed.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 4" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_1wiGfB6z.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_1wiGfB6z.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 5" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_5zzR4vVe.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_5zzR4vVe.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 6" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_rhcFrVp.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_rhcFrVp.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 7" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_meWuF7Y7Dj.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_meWuF7Y7Dj.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 8" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_itTHysRPsxL.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_itTHysRPsxL.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 9" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_qDuAxkMB88.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_qDuAxkMB88.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 10" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_3U3vUbl4u5AT.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_3U3vUbl4u5AT.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 11" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_gyFD0rD.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_gyFD0rD.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 12" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_fj0O8yo.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_fj0O8yo.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 13" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_e1GSlF8GJe.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_e1GSlF8GJe.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 14" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_S2dvWeJKwuz.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_S2dvWeJKwuz.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 15" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_zIEcF4ql8.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_zIEcF4ql8.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 16" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_RPrmMX.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_RPrmMX.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 17" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_4s0SQIH.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_4s0SQIH.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 18" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_qmOzyeO.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_qmOzyeO.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 19" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_gHNvk8.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_gHNvk8.jpg</page>
+		<page name="HWG_Mieterpost_1-12_Seite 20 - Rückseite" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_oglJ2n92.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_oglJ2n92.jpg</page>
+	</pages>
+<album id="12" pageWidth="500" pageHeight="750" frameSize="0">
+<images>
+<img id="0" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_t00a0XE8.jpg" width="1200" height="1697" />
+<img id="1" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_l8GdVo.jpg" width="1200" height="1697" />
+<img id="2" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_TV8NYed.jpg" width="1200" height="1697" />
+<img id="3" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_1wiGfB6z.jpg" width="1200" height="1697" />
+<img id="4" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_5zzR4vVe.jpg" width="1200" height="1697" />
+<img id="5" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_rhcFrVp.jpg" width="1200" height="1697" />
+<img id="6" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_meWuF7Y7Dj.jpg" width="1200" height="1697" />
+<img id="7" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_itTHysRPsxL.jpg" width="1200" height="1697" />
+<img id="8" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_qDuAxkMB88.jpg" width="1200" height="1697" />
+<img id="9" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_3U3vUbl4u5AT.jpg" width="1200" height="1697" />
+<img id="10" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_gyFD0rD.jpg" width="1200" height="1697" />
+<img id="11" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_fj0O8yo.jpg" width="1200" height="1697" />
+<img id="12" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_e1GSlF8GJe.jpg" width="1200" height="1697" />
+<img id="13" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_S2dvWeJKwuz.jpg" width="1200" height="1697" />
+<img id="14" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_zIEcF4ql8.jpg" width="1200" height="1697" />
+<img id="15" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_RPrmMX.jpg" width="1200" height="1697" />
+</images>
+<pages>
+<page id="0" template="1">
+<img id="0" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="1" template="1">
+<img id="1" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="2" template="1">
+<img id="2" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="3" template="1">
+<img id="3" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="4" template="1">
+<img id="4" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="5" template="1">
+<img id="5" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="6" template="1">
+<img id="6" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="7" template="1">
+<img id="7" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="8" template="1">
+<img id="8" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="9" template="1">
+<img id="9" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="10" template="1">
+<img id="10" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="11" template="1">
+<img id="11" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="12" template="1">
+<img id="12" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="13" template="1">
+<img id="13" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="14" template="1">
+<img id="14" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="15" template="1">
+<img id="15" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+</pages>
+</album>
+</FlippingBook>

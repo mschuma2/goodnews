@@ -1,0 +1,172 @@
+<FlippingBook>
+	<stageWidth>100%</stageWidth>
+	<stageHeight>512</stageHeight>
+	<width>800</width>
+	<height>600</height>
+	<scaleContent>true</scaleContent>
+	<centerContent>true</centerContent>
+	<preserveProportions>false</preserveProportions>
+	<hardcover>false</hardcover>
+	<hardcoverThickness>3</hardcoverThickness>
+	<frameWidth>0</frameWidth>
+	<frameColor>0xFFFFFF</frameColor>
+	<frameAlpha>100</frameAlpha>
+	<firstPage>0</firstPage>
+	<flipOnClick>true</flipOnClick>
+	<handOverCorner>true</handOverCorner>
+	<handOverPage>true</handOverPage>
+	<alwaysOpened>false</alwaysOpened>
+	<staticShadowsType>Symmetric</staticShadowsType>
+	<staticShadowsDepth>1</staticShadowsDepth>
+	<rigidPageSpeed>5</rigidPageSpeed>
+	<flipSound>http://goodnewsweb.de/wordpress/wp-content/pageflip/sounds/1.mp3</flipSound>
+	<preloaderType>Progress Bar</preloaderType>
+	<rigidPages>false</rigidPages>
+	<zoomEnabled>true</zoomEnabled>
+	<zoomImageWidth>800</zoomImageWidth>
+	<zoomImageHeight>1200</zoomImageHeight>
+	<zoomOnClick>true</zoomOnClick>
+	<zoomHint>Double click for zooming</zoomHint>
+	<centerBook>true</centerBook>
+	<useCustomCursors>false</useCustomCursors>
+	<dropShadowEnabled>true</dropShadowEnabled>
+	<dropShadowHideWhenFlipping>true</dropShadowHideWhenFlipping>
+	<backgroundColor>0xFFFFFF</backgroundColor>
+	<pageBack>0x99CCFF</pageBack>
+	<backgroundImage></backgroundImage>
+	<backgroundImagePlacement>fit</backgroundImagePlacement>
+	<printEnabled>true</printEnabled>
+	<printTitle>Print Pages</printTitle>
+	<navigation>true</navigation>
+	<downloadURL></downloadURL>
+	<downloadTitle>Start Download</downloadTitle>
+	<downloadSize></downloadSize>
+	<downloadComplete>Complete</downloadComplete>
+	<popup>true</popup>
+	<autoReduce>false</autoReduce>
+	<allowPagesUnload>false</allowPagesUnload>
+	<autoFlip>50</autoFlip>
+	<closeSpeed>3</closeSpeed>
+	<darkPages>false</darkPages>
+	<dynamicShadowsDarkColor>0x000000</dynamicShadowsDarkColor>
+	<dynamicShadowsDepth>1</dynamicShadowsDepth>
+	<dynamicShadowsLightColor>0xFFFFFF</dynamicShadowsLightColor>
+	<firstLastButtons>true</firstLastButtons>
+	<flipCornerAmount>70</flipCornerAmount>
+	<flipCornerAngle>45</flipCornerAngle>
+	<flipCornerPlaySound>false</flipCornerPlaySound>
+	<flipCornerPosition>top-right</flipCornerPosition>
+	<flipCornerRelease>true</flipCornerRelease>
+	<flipCornerStyle>manually</flipCornerStyle>
+	<flipCornerVibrate>true</flipCornerVibrate>
+	<freezeOnFlip>false</freezeOnFlip>
+	<fullscreenEnabled>true</fullscreenEnabled>
+	<fullscreenHint>HWG Mieterpost 1/2012</fullscreenHint>
+	<goToPageField>true</goToPageField>
+	<gotoSpeed>3</gotoSpeed>
+	<hardcoverEdgeColor>0xFFFFFF</hardcoverEdgeColor>
+	<hardcoverSound></hardcoverSound>
+	<highlightHardcover>true</highlightHardcover>
+	<loadOnDemand>true</loadOnDemand>
+	<moveSpeed>2</moveSpeed>
+	<navigationBarSkin>navigation</navigationBarSkin>
+	<navigationBarPlacement>bottom</navigationBarPlacement>
+	<navigationFlipOffset>30</navigationFlipOffset>
+	<playOnDemand>true</playOnDemand>
+	<showUnderlyingPages>false</showUnderlyingPages>
+	<slideshowAutoPlay>false</slideshowAutoPlay>
+	<slideshowButton>false</slideshowButton>
+	<slideshowDisplayDuration>5000</slideshowDisplayDuration>
+	<smoothPages>true</smoothPages>
+	<staticShadowsDarkColor>0x000000</staticShadowsDarkColor>
+	<staticShadowsLightColor>0xFFFFFF</staticShadowsLightColor>
+	<zoomUIColor>0x8f9ea6</zoomUIColor>
+	<pages>
+		<page name="Beileger 90 Jahre HWG - Seite 1 Titel" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_OF7hhZS3U.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_OF7hhZS3U.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 2" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_MYBFQmdpJo.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_MYBFQmdpJo.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 3" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_BqSOwus7OU.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_BqSOwus7OU.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 4" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_B1L0uxilaDlH.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_B1L0uxilaDlH.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 5" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_gZ2G3i09oM7p.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_gZ2G3i09oM7p.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 6" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_uKVH77iAqZa.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_uKVH77iAqZa.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 7" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_sBpqxKbKbzV3.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_sBpqxKbKbzV3.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 8" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_rAGczv.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_rAGczv.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 9" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_g56bcvr.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_g56bcvr.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 10" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_wijXyzj9BU.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_wijXyzj9BU.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 11" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_J7rwT5.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_J7rwT5.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 12" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_x01FxNcbnrgK.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_x01FxNcbnrgK.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 13" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_4RuLSjUr.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_4RuLSjUr.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 14" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_dtGK4TDUgCK.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_dtGK4TDUgCK.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 15" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_ZmO2A69aq2.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_ZmO2A69aq2.jpg</page>
+		<page name="Beileger 90 Jahre HWG - Seite 16 Rückseite" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_KBzUkQRom.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_KBzUkQRom.jpg</page>
+	</pages>
+<album id="11" pageWidth="320" pageHeight="480" frameSize="0">
+<images>
+<img id="0" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_OF7hhZS3U.jpg" width="1200" height="1697" />
+<img id="1" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_MYBFQmdpJo.jpg" width="1200" height="1697" />
+<img id="2" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_BqSOwus7OU.jpg" width="1200" height="1697" />
+<img id="3" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_B1L0uxilaDlH.jpg" width="1200" height="1697" />
+<img id="4" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_gZ2G3i09oM7p.jpg" width="1200" height="1697" />
+<img id="5" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_uKVH77iAqZa.jpg" width="1200" height="1697" />
+<img id="6" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_sBpqxKbKbzV3.jpg" width="1200" height="1697" />
+<img id="7" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_rAGczv.jpg" width="1200" height="1697" />
+<img id="8" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_g56bcvr.jpg" width="1200" height="1697" />
+<img id="9" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_wijXyzj9BU.jpg" width="1200" height="1697" />
+<img id="10" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_J7rwT5.jpg" width="1200" height="1697" />
+<img id="11" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_x01FxNcbnrgK.jpg" width="1200" height="1697" />
+<img id="12" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_4RuLSjUr.jpg" width="1200" height="1697" />
+<img id="13" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_dtGK4TDUgCK.jpg" width="1200" height="1697" />
+<img id="14" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_ZmO2A69aq2.jpg" width="1200" height="1697" />
+<img id="15" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_KBzUkQRom.jpg" width="1200" height="1697" />
+</images>
+<pages>
+<page id="0" template="1">
+<img id="0" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="1" template="1">
+<img id="1" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="2" template="1">
+<img id="2" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="3" template="1">
+<img id="3" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="4" template="1">
+<img id="4" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="5" template="1">
+<img id="5" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="6" template="1">
+<img id="6" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="7" template="1">
+<img id="7" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="8" template="1">
+<img id="8" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="9" template="1">
+<img id="9" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="10" template="1">
+<img id="10" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="11" template="1">
+<img id="11" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="12" template="1">
+<img id="12" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="13" template="1">
+<img id="13" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="14" template="1">
+<img id="14" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="15" template="1">
+<img id="15" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+</pages>
+</album>
+</FlippingBook>

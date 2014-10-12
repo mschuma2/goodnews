@@ -1,0 +1,271 @@
+/* Content und Sidebar-Elemente */
+
+BODY {
+	margin: 0px;
+	padding: 30px 10px 30px 10px;
+	background-color: #ffffff;
+}
+
+#content h2 {
+	font-size: 30px;
+	font-family : Georgia, Palatino, "Times New Roman", serif;
+	letter-spacing: -1px;
+	font-weight : normal;
+	margin: 10px -20px 10px -60px;
+	padding: 5px 20px 5px 60px;
+	background-color: #53534A;
+}
+
+#sidebar h1 {
+	font-family : Georgia, Palatino, "Times New Roman", serif;
+	color: #888888;
+	font-size: 13px;
+	letter-spacing: -1px;
+	font-weight : normal;
+	margin: 10px -20px 6px -20px;
+	padding: 4px 20px 4px 20px;
+	background-color: #efefef;
+}
+
+#sidebar h2 {
+	color: #888888;
+	font-size: 100%;
+	font-weight : bold;
+	margin: 0px;
+	padding: 8px 0px 4px 0px;
+}
+
+
+#content h3 {
+	font-size: 100%;
+	font-weight: bold;
+	margin: 0px;
+	padding: 2px 0px 2px 0px;
+}
+
+#content p, #sidebar p {
+	margin: 0px;
+	padding: 2px 0px 2px 0px;
+	line-height: 160%;
+}
+
+#content a {
+	font-weight : bold;
+	color: #ffffff;
+}
+
+#sidebar a {
+	text-decoration: none;
+	font-weight : bold;
+	color: #888888;
+}
+
+#sidebar a:hover {
+	text-decoration: underline;
+}
+
+
+#content .sidepicture {
+	float: right;
+	padding: 0px 0px 0px 10px;
+	margin: 6px 0px 10px 10px;
+	width: 160px;
+}
+
+#content .clearer {
+	clear: both;
+}
+
+#more {
+	marging: 0px;
+	padding: 20px 0px 0px 0px;
+	text-align: right;
+}
+
+/* Liste */
+
+#content ul, #sidebar ul {
+	list-style: none;
+	padding: 0px;
+	margin: 6px 0px 6px 10px;
+}
+
+#content li, #sidebar li {
+	padding: 2px 0px 2px 16px;
+	background: url(../images/pbull.gif) no-repeat top left;
+}
+
+/* Tabelle */
+
+#content table.cells {
+	border: 1px solid #7A7A6E;
+}
+
+#content td.cell {
+	background-color: ;
+}
+
+#content td.headercell {
+	background-color: #53534A;
+	color: ;
+	font-weight: bold;
+}
+
+/* Teaser */
+
+div.teaserelement {
+	float: left;
+	padding: 0px 20px 0px 0px;
+	margin: 0px;
+}
+
+div.teaser {
+	margin: 0px;
+	padding: 2px 0px 2px 0px;
+}
+
+div.teaserpicture {
+	float: right;
+	padding: 0px;
+	margin: 6px 0px 10px 10px;
+	border: none;
+}
+
+p.teasertext {
+	margin: 0px;
+	padding: 4px 0px 4px 0px;
+}
+
+.teasernav {
+	clear: both;
+	padding: 2px 0px 2px 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+/* Absatztype Formular */
+
+input.box {
+	border : 1px solid #53534A;
+	width: 300px;
+	vertical-align: top;
+	padding: 1px;
+	margin: 0px 0px 10px 0px;
+}
+
+form.formular textarea  {
+	border : 1px solid #53534A;
+	width: 300px;
+	height: 200px;
+	vertical-align: top;
+	padding: 1px;
+	margin: 0px 0px 10px 0px;
+}
+
+form.formular .formcaption {
+	width: 160px;
+	line-height: 200%;
+	float: left;
+	clear: left;
+}
+
+form.formular .formnote {
+	line-height: 160%;
+	padding: 2px 0px 10px 204px !important;
+}
+
+.buttoncaption {
+	line-height: 200%;
+}
+
+
+/* Plugin-Styles */
+
+P.s2d  {
+	font-size: 180%;
+	font-weight : bold;
+	margin: 0px;
+	padding: 2px 0px 2px 0px;
+	line-height: 200%;
+}
+
+P.s2dsmall  {
+	font-size: 80%;
+}
+
+a.s2dsmall, a.s2dinfo  {
+	text-decoration: underline !important;
+}
+
+
+/** Für Formulare und Shopseiten **/
+
+/* Rahmen und Farbe Formularelemente */
+table.formtab select.tx,
+table.formtab input.tx,
+table.formtab textarea.tx {
+	border: 1px solid #53534A;
+	background-color: ;
+}
+
+/* Weitere Styledefinitionen für Formularelemente */
+/* Rahmen und Farbe Formularelemente Highlight */
+table.formtab select.txh,
+table.formtab input.txh,
+table.formtab textarea.txh,
+table.formtab td.txh,
+table.formtab table.txh {
+	border: 1px solid #A70C0C;
+	background-color: #F5E5E5;
+}
+
+/* Tabellenbreite */
+table.pluginwidth {
+	width: 470px;
+	margin: auto;
+}
+
+table.completewidth, td.completewidth {
+	width: 100%;
+}
+
+/* Breite der Formularfelder */
+table.formtab input.tx,
+table.formtab input.txh,
+table.formtab textarea.tx,
+table.formtab textarea.txh {
+	width: 235px;
+}
+
+/* Höhe der Formularfelder */
+table.formtab textarea.tx,
+table.formtab textarea.txh {
+	height: 94px;
+}
+
+/* Farbeliche Anzeige von Fehlermeldungen, immer identisch */
+table.formtab td.h, p.h {
+	color: #A70C0C;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* Focus und Mausover von Formularelementen, immer identisch */
+/*
+table.formtab textarea:focus,
+table.formtab textarea:hover,
+table.formtab select:focus,
+table.formtab select:hover,
+table.formtab input:focus,
+table.formtab input:hover {
+	background-color: #FFFFFF;
+} */
+
+/* Innenabstand von Formularelementen und Tabellenzellen, immer identisch */
+table.formtab input,
+table.formtab textarea,
+table.formtab td {
+	padding-left: 3px;
+	padding-right: 3px;
+	margin: 0px;
+}

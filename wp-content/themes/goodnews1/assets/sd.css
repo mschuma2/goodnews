@@ -1,0 +1,211 @@
+#topl {
+	width: 200px;
+	height: 30px;
+	padding: 0px;
+	margin: 0px;
+	border-bottom: 2px solid #ffffff;
+}
+
+#topl a {
+	font-size: 90%;
+	color: #aaaaaa;
+	text-decoration: none;
+}
+
+#topc {
+	width: 196px;
+	height: 30px;
+	padding: 0px;
+	margin: 0px;
+	background : #383832 url(../images/pfadea.gif) repeat-x top left;
+	border-bottom: 2px solid #ffffff;
+	border-left: 2px solid #ffffff;
+	border-right: 2px solid #ffffff;
+}
+
+#topr {
+	width: 550px;
+	height: 30px;
+	padding: 0px;
+	margin: 0px;
+	background : #7A7A6E url(../images/pfade.gif) repeat-x top left;
+	border-bottom: 2px solid #ffffff;
+}
+
+#midl {
+	width: 358px;
+	height: 210px;
+	padding: 20px 20px;
+	margin: 0px;
+	text-align: right;
+	color: #53534A;
+	border-right: 2px solid #ffffff;
+}
+
+#midl h1 {
+	font-size : 18px;
+	font-weight: normal;
+	color: #888888;
+	padding: 0px;
+	margin: 0px;
+}
+
+#midl h2 {
+	font-family : Georgia, Palatino, "Times New Roman", serif;
+	font-size : 44px;
+	letter-spacing : -2px;
+	font-weight: normal;
+	padding: 0px;
+	margin: 0px;
+}
+
+#midr {
+	width: 550px;
+	height: 250px;
+	padding: 0px;
+	margin: 0px;
+	background-image : url(../images/s2dlogo.jpg);
+	border-bottom: 2px solid #ffffff;
+}
+
+#common {
+	width: 950px;
+	height: 50px;
+	background : #f8f8f8 url(../images/pfadeg.gif) repeat-x top left;
+	border-bottom: 2px solid #ffffff;
+	overflow: hidden;
+}
+
+#common a {
+	display: block;
+	float: left;
+	color: #666666;
+	text-decoration: none;
+	border-right: 1px solid #ffffff;
+	padding: 0px 10px;
+	line-height: 50px;
+	height: 50px;
+}
+
+#common a:hover {
+	background : #7A7A6E url(../images/pfade.gif) repeat-x top left;
+	color: #ffffff;
+}
+
+
+a.maintopic:hover, a.topic:hover, a.subtopic:hover  {
+	text-decoration: underline;
+}
+
+#tdnav {
+	background : #383832 url(../images/pfadea.gif) repeat-x top left;
+	vertical-align: top;
+	border-right: 2px solid #ffffff;	
+	border-left: 2px solid #ffffff;	
+}
+
+#tdcontent {
+	color: #ffffff;
+	vertical-align: top;
+	background : #7A7A6E url(../images/pfade.gif) repeat-x top left;
+}
+
+#tdsidebar {
+	vertical-align: top;
+	background : #ffffff url(../images/pfadew.gif) repeat-x top left;
+}
+
+#content {
+	width: 470px;
+	padding: 50px 20px 20px 60px;
+	margin: 0px;
+}
+
+#sidebar {
+	width: 160px;
+	padding: 50px 20px 20px 20px;
+	margin: 0px;
+}
+
+
+#nav {
+	width: 156px;
+	padding: 50px 20px 20px 20px;
+	margin: 0px;
+}
+
+a.maintopic, #nav h1 {
+	display:block;
+	margin: 10px -20px 10px -20px;
+	padding: 5px 20px 5px 20px;
+	background-color: #10100E;
+	text-decoration: none;
+	font-size: 20px;
+	font-family : Georgia, serif;
+	font-weight: normal;
+	letter-spacing: -1px;
+	color: #ffffff;
+}
+
+a.topic {
+	display:block;
+	padding: 0px 0px 6px 0px;
+	margin: 0px 0px 6px 0px;
+	border-bottom: 1px solid #10100E;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a.subtopic {
+	display:block;
+	padding: 0px 0px 6px 0px;
+	margin: 0px 0px 6px 20px;
+	text-decoration: none;
+	color: #ffffff;
+	border-bottom: 1px solid #10100E;
+}
+
+#bottoml {
+	width: 200px;
+	height: 20px;
+	padding: 0px;
+	margin: 0px;
+	background: #ffffff url(../images/psdhw.gif) repeat-x top left;
+}
+
+#bottomc {
+	width: 200px;
+	height: 20px;
+	padding: 0px;
+	margin: 0px;
+	background: #ffffff url(../images/psdhw.gif) repeat-x top left;
+}
+
+#bottomr {
+	width: 550px;
+	height: 20px;
+	padding: 0px;
+	margin: 0px;
+	background: url(../images/psdhw.gif) repeat-x top left;
+}
+
+
+form.search {
+	margin: 0px;
+	padding: 12px 10px 0px 0px;
+	display: block;
+	float: right;
+	color: #666666;
+}
+
+form.search input {
+	vertical-align : middle;
+}
+
+input.search {
+	padding: 2px;
+	margin: 0px;
+	border: #888888 1px solid;
+	width: 120px;
+	font-size:12px;
+}

@@ -1,0 +1,93 @@
+/*--------------------------------
+	CSS file if thumbs enabled
+---------------------------------*/
+
+#featured{
+	width:405px;
+	padding-right:225px;
+	position:relative;
+	height:248px;
+	background-color:#fafaf9;
+	border: 3px #cecfcc solid;
+	overflow:hidden;
+}
+
+#featured ul.ui-tabs-nav{
+	position:absolute;
+	top:0; left:405px;
+	list-style:none;
+	padding:0; margin:0;
+	width:227px;
+}
+#featured ul.ui-tabs-nav li{
+	padding-left:13px;
+	font-size:12px;
+	color:#666;
+}
+#featured ul.ui-tabs-nav li span{
+	font-size:11px; font-family:Tahoma, Arial, Helvetica, sans-serif;
+	line-height:18px;
+}
+
+#featured .ui-tabs-panel{
+	width:419px; height:248px;
+	background:#999; position:relative;
+        overflow:hidden;
+}
+#featured .ui-tabs-hide{
+	display:none;
+}
+
+#featured li.ui-tabs-nav-item a{/*On Hover Style*/
+padding:1px 0; 
+	display:block;
+	height:60px;
+	color:#333; 
+	line-height:20px;
+	outline:none;
+}
+#featured li.ui-tabs-nav-item a:hover{
+	background:#f2f2f2;
+}
+
+#featured li.ui-tabs-selected{ 
+
+}
+
+#featured ul.ui-tabs-nav li.ui-tabs-selected a{
+	background:#ccc;
+}
+
+#featured ul.ui-tabs-nav li img{
+	float:left; margin:2px 5px;
+	background:#fff;
+	padding:2px;
+	border:1px solid #eee;
+}
+#featured .ui-tabs-panel .info{ 
+	position:absolute; 
+	bottom:0; left:0; 
+	width:419px;
+	height:70px; 
+	background: url('../img/transparent-bg.png'); 
+}
+#featured .info h2{ 
+	font-size:14px; font-family:Tahoma, Arial, Helvetica, sans-serif; 
+	color:#fff; padding:5px; margin:0;
+	overflow:hidden; 
+}
+#featured .info p{ 
+	margin:0 5px; 
+	font-family:Tahoma, Arial, Helvetica, sans-serif; font-size:11px; 
+	line-height:15px; color:#f0f0f0;
+}
+#featured .info a{ 
+	text-decoration:none; 
+	color:#fff; 
+}
+#featured .info a:hover{ 
+	text-decoration:underline; 
+}
+#featured .ui-tabs-hide{ 
+	display:none; 
+}

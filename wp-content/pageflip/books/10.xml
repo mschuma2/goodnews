@@ -1,0 +1,192 @@
+<FlippingBook>
+	<stageWidth>100%</stageWidth>
+	<stageHeight>512</stageHeight>
+	<width>700</width>
+	<height>525</height>
+	<scaleContent>true</scaleContent>
+	<centerContent>true</centerContent>
+	<preserveProportions>false</preserveProportions>
+	<hardcover>false</hardcover>
+	<hardcoverThickness>3</hardcoverThickness>
+	<frameWidth>0</frameWidth>
+	<frameColor>0xFFFFFF</frameColor>
+	<frameAlpha>100</frameAlpha>
+	<firstPage>0</firstPage>
+	<flipOnClick>true</flipOnClick>
+	<handOverCorner>true</handOverCorner>
+	<handOverPage>true</handOverPage>
+	<alwaysOpened>false</alwaysOpened>
+	<staticShadowsType>Symmetric</staticShadowsType>
+	<staticShadowsDepth>1</staticShadowsDepth>
+	<rigidPageSpeed>5</rigidPageSpeed>
+	<flipSound>http://goodnewsweb.de/wordpress/wp-content/pageflip/sounds/1.mp3</flipSound>
+	<preloaderType>Progress Bar</preloaderType>
+	<rigidPages>false</rigidPages>
+	<zoomEnabled>true</zoomEnabled>
+	<zoomImageWidth>800</zoomImageWidth>
+	<zoomImageHeight>1200</zoomImageHeight>
+	<zoomOnClick>true</zoomOnClick>
+	<zoomHint>Double click for zooming</zoomHint>
+	<centerBook>true</centerBook>
+	<useCustomCursors>false</useCustomCursors>
+	<dropShadowEnabled>true</dropShadowEnabled>
+	<dropShadowHideWhenFlipping>true</dropShadowHideWhenFlipping>
+	<backgroundColor>0xFFFFFF</backgroundColor>
+	<pageBack>0x99CCFF</pageBack>
+	<backgroundImage></backgroundImage>
+	<backgroundImagePlacement>fit</backgroundImagePlacement>
+	<printEnabled>true</printEnabled>
+	<printTitle>Print Pages</printTitle>
+	<navigation>true</navigation>
+	<downloadURL></downloadURL>
+	<downloadTitle>Start Download</downloadTitle>
+	<downloadSize></downloadSize>
+	<downloadComplete>Complete</downloadComplete>
+	<popup>true</popup>
+	<autoReduce>false</autoReduce>
+	<allowPagesUnload>false</allowPagesUnload>
+	<autoFlip>50</autoFlip>
+	<closeSpeed>3</closeSpeed>
+	<darkPages>false</darkPages>
+	<dynamicShadowsDarkColor>0x000000</dynamicShadowsDarkColor>
+	<dynamicShadowsDepth>1</dynamicShadowsDepth>
+	<dynamicShadowsLightColor>0xFFFFFF</dynamicShadowsLightColor>
+	<firstLastButtons>true</firstLastButtons>
+	<flipCornerAmount>70</flipCornerAmount>
+	<flipCornerAngle>45</flipCornerAngle>
+	<flipCornerPlaySound>false</flipCornerPlaySound>
+	<flipCornerPosition>top-right</flipCornerPosition>
+	<flipCornerRelease>true</flipCornerRelease>
+	<flipCornerStyle>manually</flipCornerStyle>
+	<flipCornerVibrate>true</flipCornerVibrate>
+	<freezeOnFlip>false</freezeOnFlip>
+	<fullscreenEnabled>true</fullscreenEnabled>
+	<fullscreenHint>fasanen37 1_2012</fullscreenHint>
+	<goToPageField>true</goToPageField>
+	<gotoSpeed>3</gotoSpeed>
+	<hardcoverEdgeColor>0xFFFFFF</hardcoverEdgeColor>
+	<hardcoverSound></hardcoverSound>
+	<highlightHardcover>true</highlightHardcover>
+	<loadOnDemand>true</loadOnDemand>
+	<moveSpeed>2</moveSpeed>
+	<navigationBarSkin>navigation</navigationBarSkin>
+	<navigationBarPlacement>bottom</navigationBarPlacement>
+	<navigationFlipOffset>30</navigationFlipOffset>
+	<playOnDemand>true</playOnDemand>
+	<showUnderlyingPages>false</showUnderlyingPages>
+	<slideshowAutoPlay>false</slideshowAutoPlay>
+	<slideshowButton>false</slideshowButton>
+	<slideshowDisplayDuration>5000</slideshowDisplayDuration>
+	<smoothPages>true</smoothPages>
+	<staticShadowsDarkColor>0x000000</staticShadowsDarkColor>
+	<staticShadowsLightColor>0xFFFFFF</staticShadowsLightColor>
+	<zoomUIColor>0x8f9ea6</zoomUIColor>
+	<pages>
+		<page name="fasanen37_1-Seite 1 Cover" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_YwfDnHxH.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_YwfDnHxH.jpg</page>
+		<page name="fasanen37_1-Seite 2.jpg" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_RmFljlG81bq.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_RmFljlG81bq.jpg</page>
+		<page name="fasanen37_1-Seite 3" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_cgm1fgjl.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_cgm1fgjl.jpg</page>
+		<page name="fasanen37_1-Seite 4" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_t0w81G.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_t0w81G.jpg</page>
+		<page name="fasanen37_1-Seite 5" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_zqzMWLW8gS.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_zqzMWLW8gS.jpg</page>
+		<page name="fasanen37_1-Seite 6" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_zY57pg2.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_zY57pg2.jpg</page>
+		<page name="fasanen37_1-Seite 7" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_erffIxB4.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_erffIxB4.jpg</page>
+		<page name="fasanen37_1-Seite 8" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_WU8z1QpcH.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_WU8z1QpcH.jpg</page>
+		<page name="fasanen37_1-Seite 9" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_JAEWZr.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_JAEWZr.jpg</page>
+		<page name="fasanen37_1-Seite 10" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_UHWL723b8A.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_UHWL723b8A.jpg</page>
+		<page name="fasanen37_1-Seite 11" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_xs6jc3J4.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_xs6jc3J4.jpg</page>
+		<page name="fasanen37_1-Seite 12" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_Y6e7EEzqs.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_Y6e7EEzqs.jpg</page>
+		<page name="fasanen37_1-Seite 13" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_NqaX39eqD.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_NqaX39eqD.jpg</page>
+		<page name="fasanen37_1-Seite 14" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_uWcPxaVfBNX0.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_uWcPxaVfBNX0.jpg</page>
+		<page name="fasanen37_1-Seite 15" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_kAyqcx.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_kAyqcx.jpg</page>
+		<page name="fasanen37_1-Seite 16" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_E6EXXC3c6.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_E6EXXC3c6.jpg</page>
+		<page name="fasanen37_1-Seite 17" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_xRXcdYXjoA7.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_xRXcdYXjoA7.jpg</page>
+		<page name="fasanen37_1-Seite 18" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_BfN1wPm.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_BfN1wPm.jpg</page>
+		<page name="fasanen37_1-Seite 19" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_jm7NS.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_jm7NS.jpg</page>
+		<page name="fasanen37_1-Seite 20 Rückseite" zoomURL="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_2VaMiR.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://goodnewsweb.de/wordpress/wp-content/pageflip/images/i_2VaMiR.jpg</page>
+	</pages>
+<album id="10" pageWidth="320" pageHeight="480" frameSize="0">
+<images>
+<img id="0" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_YwfDnHxH.jpg" width="1200" height="1696" />
+<img id="1" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_RmFljlG81bq.jpg" width="1200" height="1696" />
+<img id="2" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_cgm1fgjl.jpg" width="1200" height="1696" />
+<img id="3" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_t0w81G.jpg" width="1200" height="1696" />
+<img id="4" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_zqzMWLW8gS.jpg" width="1200" height="1696" />
+<img id="5" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_zY57pg2.jpg" width="1200" height="1696" />
+<img id="6" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_erffIxB4.jpg" width="1200" height="1696" />
+<img id="7" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_WU8z1QpcH.jpg" width="1200" height="1696" />
+<img id="8" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_JAEWZr.jpg" width="1200" height="1696" />
+<img id="9" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_UHWL723b8A.jpg" width="1200" height="1696" />
+<img id="10" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_xs6jc3J4.jpg" width="1200" height="1696" />
+<img id="11" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_Y6e7EEzqs.jpg" width="1200" height="1696" />
+<img id="12" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_NqaX39eqD.jpg" width="1200" height="1696" />
+<img id="13" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_uWcPxaVfBNX0.jpg" width="1200" height="1696" />
+<img id="14" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_kAyqcx.jpg" width="1200" height="1696" />
+<img id="15" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_E6EXXC3c6.jpg" width="1200" height="1696" />
+<img id="16" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_xRXcdYXjoA7.jpg" width="1200" height="1696" />
+<img id="17" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_BfN1wPm.jpg" width="1200" height="1696" />
+<img id="18" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_jm7NS.jpg" width="1200" height="1696" />
+<img id="19" thumb="http://goodnewsweb.de/wordpress/wp-content/pageflip/images/t_i_2VaMiR.jpg" width="1200" height="1696" />
+</images>
+<pages>
+<page id="0" template="1">
+<img id="0" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="1" template="1">
+<img id="1" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="2" template="1">
+<img id="2" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="3" template="1">
+<img id="3" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="4" template="1">
+<img id="4" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="5" template="1">
+<img id="5" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="6" template="1">
+<img id="6" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="7" template="1">
+<img id="7" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="8" template="1">
+<img id="8" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="9" template="1">
+<img id="9" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="10" template="1">
+<img id="10" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="11" template="1">
+<img id="11" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="12" template="1">
+<img id="12" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="13" template="1">
+<img id="13" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="14" template="1">
+<img id="14" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="15" template="1">
+<img id="15" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="16" template="1">
+<img id="16" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="17" template="1">
+<img id="17" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="18" template="1">
+<img id="18" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="19" template="1">
+<img id="19" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+</pages>
+</album>
+</FlippingBook>

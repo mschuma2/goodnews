@@ -1,0 +1,774 @@
+/* Content und Sidebar-Elemente */
+BODY {
+    margin: 0px;
+    padding: 30px 10px 30px 10px;
+    background-color: #ffffff;
+}
+
+#content h2 {
+    font-size: 30px;
+    font-family: Arial, Georgia, Palatino, "Times New Roman", serif;
+    letter-spacing: -1px;
+    font-weight: normal;
+    margin: -5px -20px 10px -60px;
+    padding: 27px 20px 5px 60px;
+	color: #ffffff
+}
+
+#sidebar h1 {
+    font-family: Arial, Georgia, Palatino, "Times New Roman", serif;
+    color: #888888;
+    font-size: 13px;
+    letter-spacing: -1px;
+    font-weight: normal;
+    margin: 10px -20px 6px -20px;
+    padding: 4px 20px 4px 20px;
+    background-color: #efefef;
+}
+
+#sidebar h2 {
+    color: #888888;
+    font-size: 110%;
+    font-weight: bold;
+    margin: 0px;
+    padding: 8px 0px 4px 0px;
+}
+
+#content h3 {
+    font-size: 18px;
+    font-family: Arial, Georgia, Palatino, "Times New Roman", serif;
+    font-weight: bold;
+    margin: 0px;
+    padding: 25px 0px 6px 0px;
+}
+
+#content h4 {
+    font-size: 14px;
+    font-family: Arial, Georgia, Palatino, "Times New Roman", serif;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 20px 0px 0px 0px;
+}
+
+#content p, #sidebar p {
+    margin: 0px;
+    padding: 5px 0px 5px 0px;
+    line-height: 150%;
+}
+
+#content a {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#sidebar a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #888888;
+}
+
+#sidebar a:hover {
+    text-decoration: underline;
+}
+
+#content .sidepicture {
+    float: right;
+    padding: 0px 0px 0px 10px;
+    margin: 6px 0px 10px 10px;
+    width: 160px;
+}
+
+#content .clearer {
+    clear: both;
+}
+
+#more {
+    padding: 20px 0px 0px 0px;
+    text-align: right;
+}
+
+/* Liste */
+#content ul, #sidebar ul {
+    list-style: dot;
+    padding: 0px 6px 0px 6px;
+    margin: 6px 0px 6px 10px;
+
+}
+
+#content li, #sidebar li {
+    padding: 2px 0px 2px 16px;
+    background: url(images/pbull.gif) no-repeat top left;
+    line-height: 150%;
+}
+
+/* Tabelle */
+#content table.cells {
+    border: 1px solid #7A7A6E;
+}
+
+#content td.cell {
+    background-color:;
+}
+
+#content td.headercell {
+    background-color: #53534A;
+    color:;
+    font-weight: bold;
+}
+
+/* Teaser */
+div.teaserelement {
+    float: left;
+    padding: 0px 20px 0px 0px;
+    margin: 0px;
+}
+
+div.teaser {
+    margin: 0px;
+    padding: 2px 0px 2px 0px;
+}
+
+div.teaserpicture {
+    float: right;
+    padding: 0px;
+    margin: 6px 0px 10px 10px;
+    border: none;
+}
+
+p.teasertext {
+    margin: 0px;
+    padding: 4px 0px 4px 0px;
+}
+
+.teasernav {
+    clear: both;
+    padding: 2px 0px 2px 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+/* Absatztype Formular */
+input.box {
+    border: 1px solid #53534A;
+    width: 300px;
+    vertical-align: top;
+    padding: 1px;
+    margin: 0px 0px 10px 0px;
+}
+
+form.formular textarea {
+    border: 1px solid #53534A;
+    width: 300px;
+    height: 200px;
+    vertical-align: top;
+    padding: 1px;
+    margin: 0px 0px 10px 0px;
+}
+
+form.formular .formcaption {
+    width: 160px;
+    line-height: 200%;
+    float: left;
+    clear: left;
+}
+
+form.formular .formnote {
+    line-height: 160%;
+    padding: 2px 0px 10px 204px !important;
+}
+
+.buttoncaption {
+    line-height: 200%;
+}
+
+/* Plugin-Styles */
+P.s2d {
+    font-size: 180%;
+    font-weight: bold;
+    margin: 0px;
+    padding: 2px 0px 2px 0px;
+    line-height: 200%;
+}
+
+P.s2dsmall {
+    font-size: 80%;
+}
+
+a.s2dsmall, a.s2dinfo {
+    text-decoration: underline !important;
+}
+
+/** Fï¿½r Formulare und Shopseiten **/
+/* Rahmen und Farbe Formularelemente */
+table.formtab select.tx, table.formtab input.tx, table.formtab textarea.tx {
+    border: 1px solid #53534A;
+    background-color:;
+}
+
+/* Weitere Styledefinitionen fï¿½r Formularelemente */
+/* Rahmen und Farbe Formularelemente Highlight */
+table.formtab select.txh, table.formtab input.txh, table.formtab textarea.txh, table.formtab td.txh, table.formtab table.txh {
+    border: 1px solid #A70C0C;
+    background-color: #F5E5E5;
+}
+
+/* Tabellenbreite */
+table.pluginwidth {
+    width: 470px;
+    margin: auto;
+}
+
+table.completewidth, td.completewidth {
+    width: 100%;
+}
+
+/* Breite der Formularfelder */
+table.formtab input.tx, table.formtab input.txh, table.formtab textarea.tx, table.formtab textarea.txh {
+    width: 235px;
+}
+
+/* Hï¿½he der Formularfelder */
+table.formtab textarea.tx, table.formtab textarea.txh {
+    height: 94px;
+}
+
+/* Farbeliche Anzeige von Fehlermeldungen, immer identisch */
+table.formtab td.h, p.h {
+    color: #A70C0C;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Focus und Mausover von Formularelementen, immer identisch */
+/*
+ table.formtab textarea:focus,
+ table.formtab textarea:hover,
+ table.formtab select:focus,
+ table.formtab select:hover,
+ table.formtab input:focus,
+ table.formtab input:hover {
+ background-color: #FFFFFF;
+ } */
+/* Innenabstand von Formularelementen und Tabellenzellen, immer identisch */
+table.formtab input, table.formtab textarea, table.formtab td {
+    padding-left: 3px;
+    padding-right: 3px;
+    margin: 0px;
+}
+
+#topl {
+    width: 200px;
+    height: 30px;
+    padding: 0px;
+    margin: 0px;
+    border-bottom: 0px solid #ffffff;
+}
+
+#topl a {
+    font-size: 90%;
+    color: #aaaaaa;
+    text-decoration: none;
+}
+
+#topc {
+    width: 199px;
+    height: 30px;
+    padding: 0px;
+    margin: 0px;
+    background: #383832 url(images/pfadea.gif) repeat-x top left;
+    border-bottom: 0px solid #ffffff;
+    border-left: 0px solid #ffffff;
+    border-right: 0px solid #ffffff;
+}
+
+#topc a {
+    font-size: 90%;
+    color: #aaaaaa;
+    text-decoration: none;
+    margin-left: 2px;
+}
+
+#topr {
+    height: 30px;
+    width: 550px;
+    padding: 0px;
+    margin-left: 0px;
+    background: #7A7A6E url(images/pfade.gif) repeat-x top left;
+    border-bottom: 0px solid #ffffff;
+}
+
+#midl {
+        /*
+    width: 358px;
+    height: 120px;
+    padding: 20px 20px;
+     */
+    margin: 0px;
+    text-align: right;
+    color: #53534A;
+    border-right: 0px solid #ffffff;
+    vertical-align: text-bottom;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: normal;
+    color: #888888;
+    padding: 0px 5px 0px 0px;
+    margin-top: 0px;
+}
+
+h2 {
+    font-family: Arial, Georgia, Palatino, "Times New Roman", serif;
+    font-size: 44px;
+    letter-spacing: -1px;
+    font-weight: normal;
+    padding: 0px 0px 0px 5px;
+    margin: 0px;
+    color: #666666;
+}
+
+#midr {
+    width: 550px;
+        /* height: 120px; */
+    padding: 0px;
+    margin: 0px;
+    border-bottom: 0px solid #ffffff;
+        position:absolute;
+}
+
+#common {
+    width: 751px;
+    /* width: 950px; */
+    height: 44px;
+    background: #f8f8f8 url(images/pfadeg.gif) repeat-x top left;
+    border-bottom: 2px solid #ffffff;
+    overflow: hidden;
+    float: right;
+    margin-right: 4px;
+}
+
+#common ul {
+    margin: 0;
+}
+
+#common li {
+    list-style-type: none;
+    float: right;
+}
+
+#common a {
+    display: block;
+    float: left;
+    color: #666666;
+    text-decoration: none;
+    border-right: 1px solid #ffffff;
+    padding: 0px 10px;
+    line-height: 44px;
+    height: 44px;
+}
+
+#common a:hover {
+    background: #7A7A6E url(images/pfade.gif) repeat-x top left;
+    color: #ffffff;
+}
+
+a.maintopic:hover, a.topic:hover, a.subtopic:hover {
+    text-decoration: underline;
+}
+
+#tdnav {
+    background: #383832 url(images/pfadea.gif) repeat-x top left;
+    vertical-align: top;
+    /*
+     border-right: 2px solid #ffffff;
+     border-left: 2px solid #ffffff;
+     */
+    width: 199px;
+}
+
+#tdcontent {
+    border-left: 2px solid #ffffff;
+    float: left;
+    width: 547px;
+    color: #ffffff;
+    vertical-align: top;
+    background: #7A7A6E url(images/pfade.gif) repeat-x top left;
+}
+
+#tdsidebar {
+    /* border-right: 1px solid #ffffff; background: #ffffff repeat-x top left; */
+    vertical-align: bottom;
+    width: 200px;
+}
+
+#content {
+    width: 470px;
+    min-height: 550px;
+    padding: 25px 20px 20px 40px;
+    margin: 0px;
+}
+
+#sidebar {
+    position:fixed;
+    bottom: 50px;  /* padding-bottom des body tags */
+    width: 198px;
+    padding: 0px;
+    background-image: url(images/goodnews_neutral.png);
+    height: 218px;
+}
+
+#nav {
+    width: 100%;
+    /* width: 156px; */
+    padding: 0px;
+    margin: 0px;
+}
+
+a.maintopic, #nav h1 {
+    display: block;
+    margin: 10px -20px 10px -20px;
+    padding: 5px 20px 5px 20px;
+    background-color: #10100E;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Georgia, serif;
+    font-weight: normal;
+    letter-spacing: -1px;
+    color: #ffffff;
+}
+
+a.topic {
+    display: block;
+    padding: 0px 0px 6px 0px;
+    margin: 0px 0px 6px 0px;
+    border-bottom: 1px solid #10100E;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a.subtopic {
+    display: block;
+    padding: 0px 0px 6px 0px;
+    margin: 0px 0px 6px 20px;
+    text-decoration: none;
+    color: #ffffff;
+    border-bottom: 1px solid #10100E;
+}
+
+
+
+#bottomr {
+    width: 100%;
+    height: 20px;
+    padding: 0px;
+    margin: 0px;
+        font-size:80%;
+    /* background: url(images/psdhw.gif) repeat-x top left; */
+}
+
+form.search {
+    margin: 0px;
+    padding: 12px 10px 0px 0px;
+    display: block;
+    float: right;
+    color: #666666;
+}
+
+form.search input {
+    vertical-align: middle;
+}
+
+input.search {
+    padding: 2px;
+    margin: 0px;
+    border: #888888 1px solid;
+    width: 120px;
+    font-size: 12px;
+}
+
+HTML, BODY, TD, INPUT {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+/** Fï¿½r Formulare und Shopseiten **/
+/* Schriftart fï¿½r Formulartabellen und Formularelemente */
+table.formtab td, table.formtab input, table.formtab select, table.formtab textarea {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+/* */
+#common ul {
+    float: right;
+    margin: 0;
+}
+
+.page_menu li, .category_menu li {
+    list-style-type: none;
+    padding: 3px;
+    margin-bottom: 2px;
+    display: block;
+    margin-left: 10px;
+    width: 100%;
+
+}
+
+.page_menu li a, .category_menu li a {
+    border-bottom: 1px solid #10100E;
+    color: #FFFFFF;
+    display: block;
+    margin: 0 0 6px;
+    padding: 0 0 6px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+.page_menu, .category_menu {
+    width: 100%;
+    text-indent: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.category_menu {
+         background-color: black;
+         color:white;
+         margin-top:10px;
+         margin-bottom:10px;
+
+}
+
+/* aktuell */
+.category_menu li a {
+        text-transform:lowercase;
+           font-family: Arial, Georgia, Palatino, "Times New Roman", serif;
+          margin: 0px;
+          font-weight:bold;
+          font-size:18px;
+          padding: 2px 0px 2px 0px;
+          color: #FF0000;
+}
+
+/*
+ * Menu unter dem Inhalt: Archiv, Impressum, etc
+ */
+.footer_menu {
+    margin-top: 3px;
+    float: right;
+    display: block;
+    font-size: 11px;
+}
+
+.footer_menu a {
+    color: black;
+    text-decoration: none;
+    padding: 2px;
+}
+
+/*
+ * titel ï¿½ber der navigation
+ * "goodnews fï¿½r sie"
+ */
+.nav_title {
+    width: 100%;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: Arial, Georgia, Palatino, "Times New Roman", serif;
+}
+
+#header_row {
+        height:120px;
+}
+
+/* rechte ï¿½berschrift */
+#header_row div h2{
+        position:absolute;
+}
+
+.meta {
+        display:block;
+}
+/* category name in a post */
+.meta_category {
+        float:right;
+}
+
+
+.content_table {
+        width:959px;
+}
+
+#footer_row {
+        /* background: #ffffff url(images/psdhw.gif) repeat-x top left; */
+}
+
+#footer_row_cell_l {
+	background: none;
+}
+
+#footer_row_cell_m {
+        background: #ffffff url(images/psdhw.gif) repeat-x top left;
+}
+
+#footer_row_cell_r {
+        background: #ffffff url(images/psdhw.gif) repeat-x top left;
+        float: left;
+        padding-right: 5px;
+        width: 545px;
+}
+
+.entry {
+        margin-bottom:20px;
+}
+
+/*
+ * archiv navigation
+ */
+
+.navigation {
+        margin-top:15px;
+}
+.alignleft {
+        float:left;
+}
+.alignright{
+        float:right;
+}
+
+a img {
+border: 10px;
+}
+
+#header_row div h2{
+        /*
+        position:absolute;
+        */
+        position:relative;
+        bottom:0;
+        top:100%;
+}
+
+#content-slideshow {
+padding:0px !important;
+overflow:hidden;
+border: 0px solid #CCC;
+position: relative;
+}
+
+#content-slideshow ul {
+background:transparent !important;
+margin: 0 !important;
+border: none !important;
+padding: 0 !important;
+list-style-type: none !important;
+position: relative;
+}           
+
+#content-slideshow .content_slideshow ul {
+float:left;
+overflow: hidden;
+margin: 0px !important;
+padding: 0px !important;
+height: 250px;
+position: relative;
+}
+
+#content-slideshow .slideshow-nav li a {
+font-size: 10px;
+font-weight: bold;
+border-bottom: 1px solid #CCC;
+line-height:1.35em;
+display:block;
+margin:0;
+padding:9px;
+list-style-type:none;
+display:block;
+text-decoration:none;
+}
+
+#content-slideshow .slideshow-nav li img {
+cursor:hand;
+height: 200px;
+}
+
+#content-slideshow .slideshow-nav li p {
+float: left;
+font-size: 12px;
+font-weight: normal;
+padding-top: 1px;
+
+}
+
+#content-slideshow .slideshow-nav li.on a {
+background-color: #CCC;
+/* color:#fff; */
+color:#000;
+text-decoration:none;
+}
+
+/* copied from plugin css */
+#dfcg-wrapper * {
+	margin:0;
+	padding:0;
+	/*overflow:hidden;Added AW */
+	}
+
+#dfcg-menu {
+width: 199px;
+height: 195px;
+margin-right: 2px;
+display: block;
+float: left;
+overflow:none;
+background-color: #383832;
+}
+
+#dfcg-menu ul {
+indent: 0px;
+}
+
+#dfcg-menu li {
+font-size: 9pt;
+list-style-type: none;
+background-color:#7A7A6E;
+padding: 2px;
+margin-bottom: 1px;
+margin-right: 1px;
+cursor: pointer;
+height: 44px;
+color: #ffffff
+border: 2px;
+border-color: #ffffff;
+color: #ffffff
+}
+
+#dfcg-menu li a {
+color: white;
+}
+
+
+#dfcg-text {
+    background-color: #000000;
+    bottom: 0;
+    height: 0;
+    opacity: 1;
+    overflow: hidden;
+    margin-left: 0px;
+    position: absolute;
+    width: 550px;
+    z-index: 200;
+}
+
+#dfcg-text h3 {
+	line-height: 12px;
+}
